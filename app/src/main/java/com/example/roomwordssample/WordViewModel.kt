@@ -5,7 +5,6 @@ package com.example.roomwordssample
  * View Model to keep a reference to the word repository and
  * an up-to-date list of all words.
  */
-import WordRoomDatabase
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData

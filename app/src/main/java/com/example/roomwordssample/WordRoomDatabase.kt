@@ -1,5 +1,4 @@
-import com.example.roomwordssample.Word
-import com.example.roomwordssample.WordDao
+package com.example.roomwordssample
 
 
 import android.content.Context
